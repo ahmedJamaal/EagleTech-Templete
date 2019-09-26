@@ -507,13 +507,15 @@ background-color: #01AEFE;
 }
 .carousel-item h2{
   text-transform: capitalize;
-  font-size: 30px;
+  font-size: 34px;
   font-weight: 500px;
-  color: #00a7dd
+  color: #efefef
+  
 }
 .carousel-item h4{
-  font-size: 26px;
+  font-size: 18px;
   text-transform: uppercase;
+  color: #00a7dd;
  
 }
 .carousel-item p{
